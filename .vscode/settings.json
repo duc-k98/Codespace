@@ -1,0 +1,9 @@
+{
+    "editor.fontWeight": "600",
+    "editor.fontFamily": "FiraCode",
+    "editor.fontSize": 13,
+
+    "terminal.integrated.fontWeight": "550",
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.fontFamily": "FiraCode",
+}
